@@ -19,3 +19,4 @@ namespace SistemaRestaurante
 // Mejora en la edición de mesas
 // Mejora en la eliminación de mesas
 // Mejora en el listado de mesas
+// Corrección de validación de mesas
